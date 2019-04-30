@@ -1,83 +1,81 @@
                               hiq   po  lth  liu  kth  sum
-              Fredrik Ekholm    -  100   75  100   50  275
+              Fredrik Ekholm    -  100   75  100   75  275
               Måns Magnusson   60    -    -   75   60  195
+             Herman Karlsson   16    -   40   40  100  180
              Nils Gustafsson   15    -  100   60    -  175
                  Simon Klein   32   75   50   22   45  170
              Björn Magnusson   75    -   29   32   50  157
-             Herman Karlsson   16    -   40   40   50  130
           Erik Amirell Eklöf   36    -   45   24   40  121
              Gustav Kalander   45   50    -   16   16  111
                Hugo Eberhard    -   60   22   26   24  110
                Malte Larsson    7   40   60    -    -  107
                  Per Austrin  100    -    -    -    -  100
-             Jonatan Nilsson   24   26   24   50   18  100
+             Jonatan Nilsson   24   26   24   50   15  100
              Carl Westerlund    -   45    -   13   36   94
             Herman Appelgren    9   12   32   29   20   81
            Kristoffer Åhgren    6    -   36   20   22   78
 ----------------------------------------------------------
-                 Lars Åström   26    -    -   36   15   77
+                 Lars Åström   26    -    -   36   12   74
              Loke Gustafsson    -   32   10    9   29   71
-               Karl Lundstig   14   29   18    -   14   61
-          Tobias Glimmerfors    8   15   26   12   11   53
+               Karl Lundstig   14   29   18    -   11   61
+          Tobias Glimmerfors    8   15   26   12    7   53
            Joseph Swernofsky   22    0   16   14    -   52
                  Ludo Pulles   50    -    -    -    -   50
         Oleksandr Kravchenko    0    -   20    -   26   46
                   David Wärn    -    -    -   45    -   45
-           Fredrik Hernqvist   29    -    -    -   15   44
-              Ivar Källström    -   36    -    -    6   42
+           Fredrik Hernqvist   29    -    -    -   13   42
              Joakim Blikstad   40    -    -    -    -   40
+              Ivar Källström    -   36    -    -    2   38
            Lav Radosavljevic   11   13   14    1    -   38
             Martin Jakobsson    5   24    7    1    -   36
              Hannes Bredberg   12    -   13    8    -   33
                 Alex&Freddie    -    -    -    -   32   32
-              Nicole Hedblom   18    -    -    -   13   31
+              Nicole Hedblom   18    -    -    -    9   27
                Niklas Sandén    -   18    -    7    -   25
                      deadkey    -   22    -    -    -   22
-                Anton Lyxell    -    -    -   11   10   21
        David Avellan-Hultman   20    -    -    -    -   20
                Mattias Bratt    -   20    -    -    -   20
                            🌈    -    -    1   18    -   19
    Joaquín Domínguez de Tena    -    -    -    -   18   18
-                Jonas Olsson    -    -    -    -   16   16
+                Anton Lyxell    -    -    -   11    6   17
                   Jonathan L    -   16    -    -    -   16
               Isaac Arvestad    0    6    5    5    0   16
                  Axel Delbom    -    -   15    -    -   15
                  Olav Övrebö    -    -    -   15    -   15
+                Jonas Olsson    -    -    -    -   14   14
              Filip Björnåsen    -   14    -    -    -   14
-         Robert Welin-Berger    -    -    -    -   14   14
                Anton Grensjö   13    -    -    -    -   13
              Sebastian Hjelm    -    -   12    1    -   13
-          Troels Bjerre Lund    -    -    -    -   12   12
               Jacob Eriksson    -   11    -    -    -   11
                Anton Åkerman    -    -   11    -    -   11
-            Dennis Magnusson    0    -    9    1    1   11
+         Robert Welin-Berger    -    -    -    -   10   10
+            Dennis Magnusson    0    -    9    1    0   10
            Martin Hesselborn   10    -    -    -    -   10
               Martin Willner    -   10    -    -    -   10
             Gustav Schneider    -    -    -   10    0   10
                Mateusz Drwal    -    9    -    -    -    9
               Linus Karlsson    0    -    8    1    0    9
-              Thomas Lacroix    -    -    -    -    9    9
+          Troels Bjerre Lund    -    -    -    -    8    8
               Eskil Jarlskog    -    8    -    -    -    8
-          Marcus på kontoret    -    -    -    -    8    8
                     Gamma  γ    -    7    -    -    -    7
-        Eduardo Rodes Pastor    -    -    -    3    4    7
-                  Tomas Möre    -    -    -    -    7    7
          Wilmer Ansgariusson    -    -    6    -    -    6
     Alexander Westberg-Bladh    0    -    2    4    0    6
               Marcus Östling    -    -    -    6    0    6
+              Thomas Lacroix    -    -    -    -    5    5
              John Westermark    -    5    -    -    -    5
-               Oskar Larsson    -    -    -    -    5    5
+          Marcus på kontoret    -    -    -    -    4    4
            Samuel Zackrisson    4    -    -    -    -    4
               David Engström    -    4    -    -    -    4
               Patrik Laurell    -    -    4    -    -    4
+        Eduardo Rodes Pastor    -    -    -    3    0    3
+                  Tomas Möre    -    -    -    -    3    3
             Aleksandar Mitic    3    -    -    -    -    3
                 Markus Swift    -    3    -    -    -    3
                 Erik Leffler    -    -    3    -    -    3
-           Alexander Viklund    -    0    -    -    3    3
                Joel Vikström    2    -    -    -    -    2
                 Axel Nilsson    0    2    -    -    0    2
               Thore Husfeldt    -    -    -    2    -    2
-      Felix Balthasar Berief    -    -    -    -    2    2
+               Oskar Larsson    -    -    -    -    1    1
                         Dash    1    -    -    -    -    1
                    Hugo Berg    -    1    -    -    -    1
                Niklas Tomsic    0    0    -    1    0    1
@@ -102,6 +100,8 @@
                  Robin Sliwa    -    -    -    1    -    1
                Sean Wenström    -    -    -    1    -    1
           Stefan Brynielsson    -    -    -    1    -    1
+           Alexander Viklund    -    0    -    -    0    0
+      Felix Balthasar Berief    -    -    -    -    0    0
            Mattias Grenfeldt    0    -    -    -    -    0
      Jonas Sunde Valfridsson    0    -    -    -    -    0
               Åke Wettergren    0    -    -    -    -    0

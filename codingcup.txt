@@ -1,0 +1,192 @@
+                              hiq   po  lth  liu  kth  sum
+              Fredrik Ekholm    -  100   75  100   75  275
+                 Simon Klein   32   75   50   22   60  185
+             Herman Karlsson   16    -   40   40  100  180
+             Nils Gustafsson   15    -  100   60    -  175
+             Björn Magnusson   75    -   29   32    -  136
+              Måns Magnusson   60    -    -   75    -  135
+          Erik Amirell Eklöf   36    -   45   24   50  131
+             Gustav Kalander   45   50    -   16   20  115
+               Hugo Eberhard    -   60   22   26   29  115
+               Malte Larsson    7   40   60    -    -  107
+             Carl Westerlund    -   45    -   13   45  103
+                 Per Austrin  100    -    -    -    -  100
+             Jonatan Nilsson   24   26   24   50    -  100
+            Herman Appelgren    9   12   32   29   24   85
+           Kristoffer Åhgren    6    -   36   20   26   82
+----------------------------------------------------------
+             Loke Gustafsson    -   32   10    9   36   78
+                 Lars Åström   26    -    -   36    -   62
+               Karl Lundstig   14   29   18    -   15   62
+          Tobias Glimmerfors    8   15   26   12   11   53
+           Joseph Swernofsky   22    0   16   14    -   52
+        Oleksandr Kravchenko    0    -   20    -   32   52
+                 Ludo Pulles   50    -    -    -    -   50
+                  David Wärn    -    -    -   45    -   45
+           Fredrik Hernqvist   29    -    -    -   16   45
+              Ivar Källström    -   36    -    -    6   42
+             Joakim Blikstad   40    -    -    -    -   40
+                Alex&Freddie    -    -    -    -   40   40
+           Lav Radosavljevic   11   13   14    1    -   38
+            Martin Jakobsson    5   24    7    1    -   36
+             Hannes Bredberg   12    -   13    8    -   33
+              Nicole Hedblom   18    -    -    -   13   31
+               Niklas Sandén    -   18    -    7    -   25
+                     deadkey    -   22    -    -    -   22
+   Joaquín Domínguez de Tena    -    -    -    -   22   22
+                Anton Lyxell    -    -    -   11   10   21
+       David Avellan-Hultman   20    -    -    -    -   20
+               Mattias Bratt    -   20    -    -    -   20
+                           🌈    -    -    1   18    -   19
+                Jonas Olsson    -    -    -    -   18   18
+                  Jonathan L    -   16    -    -    -   16
+              Isaac Arvestad    0    6    5    5    0   16
+                 Axel Delbom    -    -   15    -    -   15
+                 Olav Övrebö    -    -    -   15    -   15
+             Filip Björnåsen    -   14    -    -    -   14
+         Robert Welin-Berger    -    -    -    -   14   14
+               Anton Grensjö   13    -    -    -    -   13
+             Sebastian Hjelm    -    -   12    1    -   13
+          Troels Bjerre Lund    -    -    -    -   12   12
+              Jacob Eriksson    -   11    -    -    -   11
+               Anton Åkerman    -    -   11    -    -   11
+            Dennis Magnusson    0    -    9    1    1   11
+           Martin Hesselborn   10    -    -    -    -   10
+              Martin Willner    -   10    -    -    -   10
+            Gustav Schneider    -    -    -   10    0   10
+               Mateusz Drwal    -    9    -    -    -    9
+              Linus Karlsson    0    -    8    1    0    9
+              Thomas Lacroix    -    -    -    -    9    9
+              Eskil Jarlskog    -    8    -    -    -    8
+          Marcus på kontoret    -    -    -    -    8    8
+                    Gamma  γ    -    7    -    -    -    7
+        Eduardo Rodes Pastor    -    -    -    3    4    7
+                  Tomas Möre    -    -    -    -    7    7
+         Wilmer Ansgariusson    -    -    6    -    -    6
+    Alexander Westberg-Bladh    0    -    2    4    0    6
+              Marcus Östling    -    -    -    6    0    6
+             John Westermark    -    5    -    -    -    5
+               Oskar Larsson    -    -    -    -    5    5
+           Samuel Zackrisson    4    -    -    -    -    4
+              David Engström    -    4    -    -    -    4
+              Patrik Laurell    -    -    4    -    -    4
+            Aleksandar Mitic    3    -    -    -    -    3
+                Markus Swift    -    3    -    -    -    3
+                Erik Leffler    -    -    3    -    -    3
+           Alexander Viklund    -    0    -    -    3    3
+               Joel Vikström    2    -    -    -    -    2
+                Axel Nilsson    0    2    -    -    0    2
+              Thore Husfeldt    -    -    -    2    -    2
+      Felix Balthasar Berief    -    -    -    -    2    2
+                        Dash    1    -    -    -    -    1
+                   Hugo Berg    -    1    -    -    -    1
+               Niklas Tomsic    0    0    -    1    0    1
+             Emil Gunnarsson    0    -    0    1    -    1
+          Christofer Ohlsson    0    -    -    1    0    1
+                Teodor Bucht    0    -    -    1    -    1
+             Oskar Strömberg    0    0    0    1    -    1
+           Andreas Björklund    -    -    -    1    -    1
+                  Annie Wång    -    -    -    1    -    1
+                Aron Bergman    -    -    -    1    -    1
+             Edvard Thörnros    -    -    -    1    -    1
+                Emil Nobrant    -    -    -    1    -    1
+               Erik Mattfolk    -    -    -    1    -    1
+              Hugo Hörnquist    -    -    -    1    -    1
+        Ibrahim Abdulhussein    -    -    -    1    -    1
+                Isak Jansson    -    -    -    1    -    1
+                Jakob Norell    -    -    -    1    -    1
+              Johan Karlsson    -    -    -    1    -    1
+             Kalle Johansson    -    -    -    1    -    1
+           Ludvig Westerdahl    -    -    -    1    -    1
+           Mattias Evaldsson    -    -    -    1    -    1
+                 Robin Sliwa    -    -    -    1    -    1
+               Sean Wenström    -    -    -    1    -    1
+          Stefan Brynielsson    -    -    -    1    -    1
+           Mattias Grenfeldt    0    -    -    -    -    0
+     Jonas Sunde Valfridsson    0    -    -    -    -    0
+              Åke Wettergren    0    -    -    -    -    0
+           Andreas Wallström    0    -    -    -    -    0
+             Tulga Ariuntuya    0    -    -    -    -    0
+               Lisa Vällfors    0    -    -    -    -    0
+             Patrik Berggren    0    -    -    -    -    0
+             Patryk Przybysz    0    -    -    -    -    0
+            Hans Glimmerfors    0    -    -    -    -    0
+             Marika Rostvall    0    -    -    -    -    0
+                 Gustaf Pihl    0    -    -    -    -    0
+              Damjan Polugic    0    -    -    -    0    0
+              Johan Vikström    0    -    -    -    0    0
+         Christofer Nolander    0    -    -    -    -    0
+             Marcus Dicander    0    -    -    -    -    0
+                Oskar Nehlin    0    -    -    -    -    0
+                 Felix Almay    0    0    0    -    0    0
+            Richard Ericsson    0    -    -    -    -    0
+            Hannes Landeholm    0    -    -    -    -    0
+                 Andy Yousef    0    -    -    -    -    0
+                   Sven Lähr    0    -    -    -    -    0
+                Mattias Akke    0    0    -    -    -    0
+          Sebastian Williams    0    -    -    -    -    0
+                   Alan Ihre    0    -    -    -    0    0
+                   meme teme    0    -    -    -    -    0
+            Simon Samaletdin    0    -    -    -    -    0
+          Leopold Hermansson    0    0    0    -    0    0
+                   Noa Spele    0    -    0    -    -    0
+               Isak Engström    0    -    -    -    -    0
+                  Alex Loiko    0    -    -    -    -    0
+            Christer Nilsson    0    -    -    -    -    0
+                 Erik Tegler    0    -    0    -    -    0
+               Filip Nykvist    0    -    -    -    -    0
+        Gustaf von Grothusen    0    -    -    -    -    0
+               Joel Sikström    0    0    -    -    -    0
+             Justus Karlsson    0    -    -    -    -    0
+                Linn Rydberg    0    -    -    -    -    0
+          Mattias Gustafsson    0    -    -    -    -    0
+                   Olof Gren    0    -    -    -    0    0
+                 olof terner    0    -    -    -    -    0
+                Samuel Tober    0    -    -    -    -    0
+               Aïssata Maiga    -    0    0    -    -    0
+              Rasmus Winzell    -    0    -    -    -    0
+                    Alfred W    -    0    -    -    -    0
+                Anton Älgmyr    -    0    -    -    -    0
+             August Tengland    -    0    -    -    -    0
+               Carl Sundvall    -    0    -    -    -    0
+          Fredrik Fjällström    -    0    -    -    -    0
+                  Hugo Hedin    -    0    -    -    -    0
+             Jesper Carlsson    -    0    -    -    -    0
+              Jonas Ströberg    -    0    -    -    -    0
+            Knut Salomonsson    -    0    -    -    -    0
+           Mathias Magnusson    -    0    -    -    -    0
+             Oliver Lindgren    -    0    -    -    -    0
+               Oscar Persson    -    0    -    -    -    0
+             Robin Bergquist    -    0    -    -    -    0
+          Sondre Kristiansen    -    0    -    -    -    0
+        Tim Tuvestam 363TEGY    -    0    -    -    -    0
+           Victor Pettersson    -    0    -    -    -    0
+               Dwight Lidman    -    -    0    -    -    0
+             Alexander Tuoma    -    -    0    -    -    0
+            Karl-Oskar Rikås    -    -    0    -    -    0
+             Gustaf Broström    -    -    0    -    -    0
+                Daniel Huber    -    -    0    -    -    0
+             Björn Johansson    -    -    0    -    -    0
+               Kristian Berg    -    -    0    -    -    0
+                 Sofi Flinck    -    -    0    -    -    0
+                  Björn Holm    -    -    -    -    0    0
+            Michael Jeppesen    -    -    -    -    0    0
+              Florian Singer    -    -    -    -    0    0
+             Oskar Söderberg    -    -    -    -    0    0
+            Marcus Andersson    -    -    -    -    0    0
+         Gustav von Knorring    -    -    -    -    0    0
+            Florian Cassayre    -    -    -    -    0    0
+                Roberta Hunt    -    -    -    -    0    0
+                Rafael Dolfe    -    -    -    -    0    0
+               Carsten Heinz    -    -    -    -    0    0
+              David Bergling    -    -    -    -    0    0
+     Marcus Jonsson Ewebring    -    -    -    -    0    0
+              Elliot Epsteib    -    -    -    -    0    0
+                    Kirintan    -    -    -    -    0    0
+                Lucian Weber    -    -    -    -    0    0
+            Viktor Lundqvist    -    -    -    -    0    0
+                      Anna N    -    -    -    -    0    0
+   Daniel Krumlinde Lundvall    -    -    -    -    0    0
+              David Bardvall    -    -    -    -    0    0
+          Filip Christiansen    -    -    -    -    0    0
+              Teresa Steiner    -    -    -    -    0    0

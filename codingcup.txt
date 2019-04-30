@@ -1,44 +1,44 @@
                               hiq   po  lth  liu  kth  sum
-              Fredrik Ekholm    -  100   75  100   75  275
-                 Simon Klein   32   75   50   22   60  185
-             Herman Karlsson   16    -   40   40  100  180
+              Fredrik Ekholm    -  100   75  100   50  275
+              Måns Magnusson   60    -    -   75   60  195
              Nils Gustafsson   15    -  100   60    -  175
-             Björn Magnusson   75    -   29   32    -  136
-              Måns Magnusson   60    -    -   75    -  135
-          Erik Amirell Eklöf   36    -   45   24   50  131
-             Gustav Kalander   45   50    -   16   20  115
-               Hugo Eberhard    -   60   22   26   29  115
+                 Simon Klein   32   75   50   22   45  170
+             Björn Magnusson   75    -   29   32   50  157
+             Herman Karlsson   16    -   40   40   50  130
+          Erik Amirell Eklöf   36    -   45   24   40  121
+             Gustav Kalander   45   50    -   16   16  111
+               Hugo Eberhard    -   60   22   26   24  110
                Malte Larsson    7   40   60    -    -  107
-             Carl Westerlund    -   45    -   13   45  103
                  Per Austrin  100    -    -    -    -  100
-             Jonatan Nilsson   24   26   24   50    -  100
-            Herman Appelgren    9   12   32   29   24   85
-           Kristoffer Åhgren    6    -   36   20   26   82
+             Jonatan Nilsson   24   26   24   50   18  100
+             Carl Westerlund    -   45    -   13   36   94
+            Herman Appelgren    9   12   32   29   20   81
+           Kristoffer Åhgren    6    -   36   20   22   78
 ----------------------------------------------------------
-             Loke Gustafsson    -   32   10    9   36   78
-                 Lars Åström   26    -    -   36    -   62
-               Karl Lundstig   14   29   18    -   15   62
+                 Lars Åström   26    -    -   36   15   77
+             Loke Gustafsson    -   32   10    9   29   71
+               Karl Lundstig   14   29   18    -   14   61
           Tobias Glimmerfors    8   15   26   12   11   53
            Joseph Swernofsky   22    0   16   14    -   52
-        Oleksandr Kravchenko    0    -   20    -   32   52
                  Ludo Pulles   50    -    -    -    -   50
+        Oleksandr Kravchenko    0    -   20    -   26   46
                   David Wärn    -    -    -   45    -   45
-           Fredrik Hernqvist   29    -    -    -   16   45
+           Fredrik Hernqvist   29    -    -    -   15   44
               Ivar Källström    -   36    -    -    6   42
              Joakim Blikstad   40    -    -    -    -   40
-                Alex&Freddie    -    -    -    -   40   40
            Lav Radosavljevic   11   13   14    1    -   38
             Martin Jakobsson    5   24    7    1    -   36
              Hannes Bredberg   12    -   13    8    -   33
+                Alex&Freddie    -    -    -    -   32   32
               Nicole Hedblom   18    -    -    -   13   31
                Niklas Sandén    -   18    -    7    -   25
                      deadkey    -   22    -    -    -   22
-   Joaquín Domínguez de Tena    -    -    -    -   22   22
                 Anton Lyxell    -    -    -   11   10   21
        David Avellan-Hultman   20    -    -    -    -   20
                Mattias Bratt    -   20    -    -    -   20
                            🌈    -    -    1   18    -   19
-                Jonas Olsson    -    -    -    -   18   18
+   Joaquín Domínguez de Tena    -    -    -    -   18   18
+                Jonas Olsson    -    -    -    -   16   16
                   Jonathan L    -   16    -    -    -   16
               Isaac Arvestad    0    6    5    5    0   16
                  Axel Delbom    -    -   15    -    -   15
